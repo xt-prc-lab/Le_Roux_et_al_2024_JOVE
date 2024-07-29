@@ -2,14 +2,14 @@
 
 This repository contains the code used in the paper "Equibiaxial stretching device for high magnification live-cell confocal fluorescence microscopy", by Anabel-Lise Le Roux et al.
 
-It allows to calculate the 2D stretch of an image, with respect to an unstretched reference image. It makes use of the following experimental data: 
+It allows to calculate the 2D strain of an image, with respect to an unstretched reference image. It makes use of the following experimental data: 
 
   * A 2D microscopy image of fluorescent markers embedded on the surface of an stretched PDMS membrane.
   * Another 2D microscopy image of the relaxed (unstretched) PDMS membrane.
 
 This repository is organized in the following directories:
 
-  * [Stretch_Code](https://github.com/xt-prc-lab/Le_Roux_et_al_2024_JOVE/tree/main/Stretch_Code): contains the code to calculate the 2D stretch field of a membrane.
+  * [Stretch_Code](https://github.com/xt-prc-lab/Le_Roux_et_al_2024_JOVE/tree/main/Stretch_Code): contains the code to calculate the 2D strain field of a membrane.
   * [Examples](https://github.com/xt-prc-lab/Le_Roux_et_al_2024_JOVE/tree/main/Examples): contains example experiments to be analyzed.
 
 # Prerequisites:
