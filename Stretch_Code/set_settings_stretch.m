@@ -17,8 +17,8 @@
 function [Settings] = set_settings_stretch(Settings)
 
     % Open files settings:
-%     Settings.Imgfmt = 'tif';                            % Image format of input images.
-    Settings.Imgfmt = 'TIF';
+    Settings.Imgfmt = 'tif';                            % Image format of input images.
+%     Settings.Imgfmt = 'TIF';
 %     Settings.Imgfmt = 'ome.tif';
     Settings.Do.Open.Trypsin = 1;                       % Open the Trypsin images.
     Settings.Do.Open.Beads = 1;                         % Open the images of the Fluorescent Beads.
