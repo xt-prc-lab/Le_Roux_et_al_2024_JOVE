@@ -15,7 +15,7 @@ clear all; close all; clc;
 %------------------------------------------------------------------------------------------------------------------------------%
 
 fold = '../Examples';                                 % Parent folder.
-exp_fold = 'M1';                                                                        % Experiment folder.
+exp_fold = 'M15b';                                                                        % Experiment folder.
 pathname = [fold, filesep, exp_fold];                                                   % Data folder.
 resultsname = [pathname, '_Results'];                                                   % Results folder.
 
